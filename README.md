@@ -29,6 +29,6 @@
 
 👯 Pretendo colaborar em projetos de código aberto.
   
-  ![Snake animation](https://github.com/dislley/disley/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dislley/dislley/blob/output/github-contribution-grid-snake.svg)
  
 </div>
