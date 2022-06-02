@@ -12,7 +12,7 @@
 </div>
   
   ##
-   <img align="right" alt="Disley-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/870723682757140520/917229353115484220/unknown.png">
+   <img align="right" alt="Disley-pic" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/870723682757140520/917229353115484220/unknown.png](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)">
 
 <div> 
   <a href="https://www.youtube.com/channel/UCI4E4as5ILf7N-YbY_UxFzA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
